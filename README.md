@@ -1,6 +1,6 @@
 # Sim_Mdl_Modifier
 整理了之前写的一个Matlab/Simulink模型修改工具，去掉了满足特定需求的两个功能，变得更通用一些。工具基于matlab提供的接口编写，添加了GUI界面。
-![img](https://github.com/yongcongwang/Sim_Mdl_Modifier/blob/master/gui_smm.png)
+![img](https://github.com/yongcongwang/MarkdownResource/raw/master/img/gui_smm.png)
 ## Fit to View
 此功能可以将Simulink模型当前层或者所有层的SubSystem设置成`Fit to View`模式。
 ## Adjust Port
