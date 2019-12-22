@@ -1,6 +1,5 @@
 # Simulink Model Modifier
 This is a script for modifying `Matlab/Simulink` models. It depends on the api supported by `Matlab` and is written with `Matlab/GUI` module. 
-![img](gui_smm.png)
 
 ## Install
 Copy `ModelModifier.fig` and `ModelModifier.m` to your `Matlab/Simulink` workspace.
@@ -30,3 +29,4 @@ Set all the input/output ports of `Subsystem` aligned automatically. Options:
 ## Modify Block
 Set all the attributes of the system the same, like color, size and name.
 
+![img](gui_smm.png)
